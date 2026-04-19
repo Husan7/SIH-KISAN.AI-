@@ -1,4 +1,4 @@
-Kisan.AI is an AI-powered platform designed to support farmers with cutting-edge tools for smarter farming. From detecting crop diseases to recommending fertilizers, Kisan.AI aims to improve agricultural practices and help farmers maximize yield sustainably. ( This is our SIH project under my leadership with team member gurleen kaur , sehaj saini and anish )
+Kisan.AI is an AI-powered platform designed to support farmers with cutting-edge tools for smarter farming. From detecting crop diseases to recommending fertilizers, Kisan.AI aims to improve agricultural practices and help farmers maximize yield sustainably. ( This is our SIH project under my leadership with team member isheeta verma)
 
 Features :
 Crop Disease Detection: AI-driven analysis to identify and diagnose crop diseases.
